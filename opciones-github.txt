@@ -12,6 +12,12 @@ si no tienes configurado
 para salir del editor bin => scape :wq
 }
 git log para ver nuestro commit
+/// para formatear los cambios realizados un archivo anterior es:
+git checkout -- <file>
+// para revisar lso cambios en archivos que realizados
+git diff index.html
+// para crear un archivo que ignore carpetas y archivos
+ // creamos en nuestra capeta este file <.gitignore>
 git push
 git pull
 git clone
