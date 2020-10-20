@@ -1,0 +1,20 @@
+comandos  git init
+git add <file> 0> para agregar a nuestra area de trabajo
+git status => sirve para ver que archivos estamos trabajando
+git commit => para crer nuestra primera fotografia de codigo
+si no tienes configurado 
+{
+ $ git config --global user.email "charlygabriel@reactsdigital.com"
+
+ $ git config --global user.name "charly"
+ se abre la editor text bim
+ si estas tecleando y no aparece nada precionar la letra i 
+para salir del editor bin => scape :wq
+}
+git log para ver nuestro commit
+git push
+git pull
+git clone
+ls=> nos da una lista del directorios
+pwd=> nos devuelve el directorio donde estamo
+cd ingresar a una carpeta
